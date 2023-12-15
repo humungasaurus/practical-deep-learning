@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "practical-deep-learning"
+  site-url: "https://dan.github.io/practical-deep-learning"
+  description: "Exercises and explorations stemming from the practical deep learning course"
+  repo-branch: main
+  repo-url: "https://github.com/dan/practical-deep-learning"
